@@ -1,0 +1,21 @@
+{
+    "name": "rtelesco/cybel-helpers",
+    "description": "miscellaneous helpers",
+    "type": "library",
+    "require": {
+        "symfony/http-foundation": "^6.2"
+    },
+    "license": "CC-BY-SA-4.0",
+    "autoload": {
+        "psr-4": {
+            "Rtelesco\\Cybel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rhubenni Telesco",
+            "email": "rhubenni.telesco@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
